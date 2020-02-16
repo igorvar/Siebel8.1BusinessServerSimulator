@@ -1,0 +1,13 @@
+C:\Documents and Settings\igorva\My Documents\Visual Studio 2005\Projects\SiebelBusinessServerSimulator\BSS\bin\Debug\BSS.exe
+C:\Documents and Settings\igorva\My Documents\Visual Studio 2005\Projects\SiebelBusinessServerSimulator\BSS\bin\Debug\BSS.pdb
+C:\Documents and Settings\igorva\My Documents\Visual Studio 2005\Projects\SiebelBusinessServerSimulator\BSS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\igorva\My Documents\Visual Studio 2005\Projects\SiebelBusinessServerSimulator\BSS\obj\Debug\BSS.Form1.resources
+C:\Documents and Settings\igorva\My Documents\Visual Studio 2005\Projects\SiebelBusinessServerSimulator\BSS\obj\Debug\BSS.Properties.Resources.resources
+C:\Documents and Settings\igorva\My Documents\Visual Studio 2005\Projects\SiebelBusinessServerSimulator\BSS\obj\Debug\BSS.csproj.GenerateResource.Cache
+C:\Documents and Settings\igorva\My Documents\Visual Studio 2005\Projects\SiebelBusinessServerSimulator\BSS\obj\Debug\BSS.exe
+C:\Documents and Settings\igorva\My Documents\Visual Studio 2005\Projects\SiebelBusinessServerSimulator\BSS\obj\Debug\BSS.pdb
+C:\Documents and Settings\igorva\My Documents\Visual Studio 2005\Projects\SiebelBusinessServerSimulator\BSS\bin\Debug\BSS.exe.config
+C:\Documents and Settings\igorva\My Documents\Visual Studio 2005\Projects\SiebelBusinessServerSimulator\BSS\bin\Debug\Interop.SIEBELHTMLLib.dll
+C:\Documents and Settings\igorva\My Documents\Visual Studio 2005\Projects\SiebelBusinessServerSimulator\BSS\obj\Debug\Interop.SIEBELHTMLLib.dll
+C:\Documents and Settings\igorva\My Documents\Visual Studio 2005\Projects\SiebelBusinessServerSimulator\BSS\obj\Debug\BSS.csproj.ResolveComReference.cache
+C:\Documents and Settings\igorva\My Documents\Visual Studio 2005\Projects\SiebelBusinessServerSimulator\BSS\obj\Debug\BSS.EditForm.resources
